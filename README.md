@@ -9,3 +9,13 @@
 6. Auto Rename Tag [VS Code Extension]
 7. Live Server [VS Code Extension]
 8. Prettier - Code formatter [Optional] [VS Code Extension]
+
+## Installing create-react-app
+npm install -g create-react-app
+
+## Create a new React App
+create-react-app my_app
+
+## Run the app
+Navigate inside the root directory of the app and type:
+npm start
